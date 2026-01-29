@@ -98,7 +98,7 @@ print("Sample Prediction:", sample_pred)
 
 <img width="538" height="145" alt="Screenshot (734)" src="https://github.com/user-attachments/assets/a2bce0ec-0fae-4a5b-8d6d-fb4d9083050b" />
 
-<img width="587" height="43" alt="Screenshot (737)" src="https://github.com/user-attachments/assets/4c1e2f80-d450-4bb4-9443-c6e66917b52d" />
+<img width="552" height="40" alt="Screenshot (737)" src="https://github.com/user-attachments/assets/c580a5e3-8281-4869-bdcb-4653b08ad4f5" />
 
 <img width="602" height="209" alt="Screenshot (736)" src="https://github.com/user-attachments/assets/634febff-bed2-4f9e-947d-6f872b20a791" />
 
